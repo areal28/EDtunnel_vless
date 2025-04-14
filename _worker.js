@@ -4,7 +4,7 @@
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 // [Linux] Run uuidgen in terminal
 // in this project, we use proxyIPs generated subsctiption link with pureIPs.
-const proxyIPs = ['cdn-all.xn--b6gac.eu.org', 'cdn.xn--b6gac.eu.org', 'cdn-b100.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.anycast.eu.org'];
+const proxyIPs = ['104.248.145.216'];
 
 export let globalConfig = {
 	userID: 'd342d11e-d424-4583-b36e-524ab1f0afa4',
